@@ -1,0 +1,9 @@
+{
+	"botkey" : "<PUT BOT TOKEN HERE>",
+	"guild_settings":{
+		"<PUT SERVER ID HERE>": {
+			"role": <PUT 'VERIFIED' ROLE ID HERE>,
+			"mail_channel": <PUT HERE ID OF CHANNEL IN WHICH TO SEND '<user> verified themselves' messages>
+		}
+	}
+}
